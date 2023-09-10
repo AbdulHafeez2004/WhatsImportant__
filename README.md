@@ -1,13 +1,7 @@
-# Django Combinator
+# This is a summarizer app which uses natural language processing and django to filter the more important text from a whole big text.
 
-This is a simple project to show the combinationsof numbers, names
+It has also been hosted on render. 
 
-## Running on your local machine
+This is the live link.
 
-- create your env
-
-- install dependencies
-
-```
-pip install -r requirements
-```
+## https://whatsimportant.onrender.com/
